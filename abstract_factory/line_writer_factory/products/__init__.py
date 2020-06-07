@@ -1,0 +1,3 @@
+from .bubble_sorter import LineWriterAndBubbleSorter
+from .insertion_sorter import LineWriterAndInsertionSorter
+from .selection_sorter import LineWriterAndSelectionSorter
