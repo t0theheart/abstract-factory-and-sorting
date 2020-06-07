@@ -10,7 +10,7 @@ There is a program which reads an array from one file and writes it to another f
 There are some methods to do it. The program can write array in line or column and use
 bubble, selection or insertion sort.
 
-#### Class schema
+### Class schema
 ![](class_schema/abstract-factory-and-sorting.png)
 
 
